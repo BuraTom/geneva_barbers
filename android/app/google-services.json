@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "566402313086",
+    "project_id": "geneva-barbers",
+    "storage_bucket": "geneva-barbers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566402313086:android:493649c945622106ace12f",
+        "android_client_info": {
+          "package_name": "com.kentechno.geneva_barbers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566402313086-rpmjffreesq6c90ck5iu4bdeljllsi0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWb0zS36peQUJButPtGIk3O6YYiFmeh28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566402313086-rpmjffreesq6c90ck5iu4bdeljllsi0e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
